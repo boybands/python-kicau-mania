@@ -34,4 +34,4 @@ Gunakan **Python 3.11** untuk hasil yang paling stabil.
 Jika jendela video tidak muncul pas di samping, kamu bisa sesuaikan koordinat di bagian `cv2.moveWindow` pada kode `kicau_mania.py` sesuai resolusi layar monitor kamu.
 
 ---
-Dibuat dengan ❤️ oleh [boybands](https://github.com)
+Dibuat dengan oleh [boybands](https://github.com)
